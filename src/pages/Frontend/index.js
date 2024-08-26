@@ -4,8 +4,8 @@ import { Routes, Route } from 'react-router-dom';
 //style
 import './style.css'
 //component
-import Header from '../../components/frontend/Header'
-import Footer from '../../components/frontend/Footer'
+import Header from '../../components/frontend/Header/index'
+import Footer from '../../components/frontend/Footer/index'
 //pages
 import Home from './Home';
 import About from './About';
